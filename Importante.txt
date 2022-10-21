@@ -1,0 +1,5 @@
+Este proyecto le permite al usuario poder realizar
+distintas conversiones monetarias desde un monto
+inicial hacia la moneda destino que el usuario
+elija, entra las opciones está habilitadas:
+Dólar, Euro, Sol, Yen, entre otros.
